@@ -11,3 +11,4 @@ env/
 *.sqlite3
 *.db
 *.env
+*.mp4
