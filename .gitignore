@@ -1,5 +1,8 @@
 __pycache__/
-media_output/
+media_output/images/
+media_output/tex
+media_output/texts
+media_output/videos/partial_movie_files
 .DS_Store
 .gitignore
 .vscode/
